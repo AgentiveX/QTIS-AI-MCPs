@@ -1,6 +1,6 @@
 <p align="left"><img src="assets/qtis-connectors.svg" alt="QTIS Connectors — Your practice, connected to AI" width="960"></p>
 
-# QTIS AI MCPs
+# QTIS AI MCPs and APIs
 
 Connect your practice to the AI tools you already use. Discover QTIS connectors, explore their capabilities, and connect using your existing staff permissions.
 
