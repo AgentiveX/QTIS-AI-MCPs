@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "repository": "https://github.com/AgentiveX/QTIS-AI-MCPs",
+  "connectors": [
+    {
+      "id": "patients",
+      "name": "Patients & Clients",
+      "category": "Patient care",
+      "status": "available",
+      "description": "Find the right person, update their details, and keep every profile in order.",
+      "capabilities": [
+        "Search and read patient profiles",
+        "Create and update contact details",
+        "Filter by patient status",
+        "Archive profiles while preserving history"
+      ],
+      "endpoint": "https://platform.qtis.ai/mcp/patients",
+      "docs": "https://platform.qtis.ai/connectors/patients/docs",
+      "page": "https://platform.qtis.ai/connectors/patients"
+    },
+    {
+      "id": "calendar",
+      "name": "Calendar",
+      "category": "Operations",
+      "status": "limited",
+      "description": "Availability, bookings, and schedule changes. A clearer view of your practice's day.",
+      "capabilities": [
+        "Find provider and room availability",
+        "Read practice appointments",
+        "Book, reschedule, and cancel with approval"
+      ],
+      "docs": "https://platform.qtis.ai/connectors/calendar/docs",
+      "page": "https://platform.qtis.ai/connectors/calendar"
+    },
+    {
+      "id": "clinical-notes",
+      "name": "Clinical Notes",
+      "category": "Patient care",
+      "status": "planned",
+      "description": "Patient notes and care documentation, brought into the flow of your work.",
+      "capabilities": [
+        "Find patient notes",
+        "Review care documentation",
+        "Prepare note drafts for review"
+      ],
+      "page": "https://platform.qtis.ai/connectors/clinical-notes"
+    },
+    {
+      "id": "forms",
+      "name": "Forms & Consents",
+      "category": "Patient care",
+      "status": "planned",
+      "description": "Intake forms, consent records, and completion status, in one conversation.",
+      "capabilities": [
+        "Find practice forms",
+        "Review completion status",
+        "Locate patient consent records"
+      ],
+      "page": "https://platform.qtis.ai/connectors/forms"
+    },
+    {
+      "id": "inventory",
+      "name": "Inventory",
+      "category": "Operations",
+      "status": "planned",
+      "description": "Stock levels, product details, and reorder planning for a well-run practice.",
+      "capabilities": [
+        "Explore product inventory",
+        "Review stock by location",
+        "Identify items to reorder"
+      ],
+      "page": "https://platform.qtis.ai/connectors/inventory"
+    },
+    {
+      "id": "messaging",
+      "name": "Messaging",
+      "category": "Growth",
+      "status": "planned",
+      "description": "Patient conversations, follow-ups, and thoughtful communication across your team.",
+      "capabilities": [
+        "Find patient conversations",
+        "Prepare follow-up drafts",
+        "Review communication history"
+      ],
+      "page": "https://platform.qtis.ai/connectors/messaging"
+    },
+    {
+      "id": "billing",
+      "name": "Billing",
+      "category": "Finance",
+      "status": "planned",
+      "description": "Invoices, payments, and balances. Bring the financial picture into focus.",
+      "capabilities": [
+        "Find practice invoices",
+        "Review payment status",
+        "Understand outstanding balances"
+      ],
+      "page": "https://platform.qtis.ai/connectors/billing"
+    },
+    {
+      "id": "analytics",
+      "name": "Practice Analytics",
+      "category": "Growth",
+      "status": "planned",
+      "description": "Activity trends, service insights, and a better understanding of your practice.",
+      "capabilities": [
+        "Explore practice activity",
+        "Review service trends",
+        "Understand operational performance"
+      ],
+      "page": "https://platform.qtis.ai/connectors/analytics"
+    },
+    {
+      "id": "team",
+      "name": "Team & Locations",
+      "category": "Operations",
+      "status": "planned",
+      "description": "Your people, roles, and locations. The context behind every practice workflow.",
+      "capabilities": [
+        "Explore practice locations",
+        "Find team members",
+        "Understand roles and assignments"
+      ],
+      "page": "https://platform.qtis.ai/connectors/team"
+    }
+  ]
+}

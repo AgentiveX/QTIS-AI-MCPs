@@ -1,0 +1,8 @@
+{
+  "name": "QTIS Patients & Clients",
+  "serverUrl": "https://platform.qtis.ai/mcp/patients",
+  "transport": "streamable-http",
+  "authentication": "oauth2",
+  "oauthClientRegistration": "dynamic",
+  "documentation": "https://platform.qtis.ai/connectors/patients/docs"
+}

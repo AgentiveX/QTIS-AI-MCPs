@@ -1,0 +1,19 @@
+{
+  "name": "qtis-ai-mcps",
+  "version": "1.1.0",
+  "description": "QTIS MCP connector directory, tool contracts, setup guides, and reference client.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "test": "node --test test/*.test.mjs",
+    "smoke": "node scripts/smoke.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AgentiveX/QTIS-AI-MCPs.git"
+  }
+}
