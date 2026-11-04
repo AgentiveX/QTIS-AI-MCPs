@@ -2,8 +2,8 @@
 
 The client uses native `fetch` in Node.js 22 or later. It is an integration
 example for applications that already complete QTIS OAuth, store credentials
-securely, rotate refresh tokens, and obtain approval for writes. Claude users
-should use the [hosted connector setup](../docs/claude.md).
+securely, rotate refresh tokens, and obtain approval for writes. AI System users
+should use the [hosted connector setup](../docs/ai-system.md).
 
 ```js
 import { QtisPatientClient } from './reference-client.mjs';

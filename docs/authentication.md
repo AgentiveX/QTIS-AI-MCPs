@@ -14,7 +14,7 @@ The public endpoint requires OAuth. Public documentation does not grant access t
 
 Use Authorization Code with **PKCE S256**, an exact registered callback, and
 explicit QTIS consent. Discover the authorization URL from issuer metadata.
-Claude registers its own OAuth client automatically; staff do not need a shared
+Your AI System registers its own OAuth client automatically; staff do not need a shared
 client secret. A password is entered only into QTIS sign-in, never into a prompt
 or GitHub issue.
 

@@ -1,21 +1,21 @@
 # Forms & Consents
 
-**Planned** · Patient care
+**Available** · Patient care
 
 Intake forms, consent records, and completion status, in one conversation.
 
 [View on QTIS](https://platform.qtis.ai/connectors/forms)
 
-This connector is planned and is not yet available to connect. These capabilities describe the intended scope. No endpoint or tool contracts are published.
-
-## Proposed capabilities
+## Capabilities
 
 - Find practice forms
 - Review completion status
 - Locate patient consent records
 
-## Availability
+## Connect your practice
 
-Follow the [connector directory](https://platform.qtis.ai/connectors) for availability. In the meantime, [Patients & Clients](../patients/README.md) is available to connect.
+Open your QTIS workspace with your staff account to manage integrations and connection settings for your practice.
+
+[Open QTIS](https://platform.qtis.ai/sign-in)
 
 [← All connectors](../../README.md#connector-directory)

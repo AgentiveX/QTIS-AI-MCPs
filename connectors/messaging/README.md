@@ -1,21 +1,21 @@
 # Messaging
 
-**Planned** · Growth
+**Available** · Growth
 
 Patient conversations, follow-ups, and thoughtful communication across your team.
 
 [View on QTIS](https://platform.qtis.ai/connectors/messaging)
 
-This connector is planned and is not yet available to connect. These capabilities describe the intended scope. No endpoint or tool contracts are published.
-
-## Proposed capabilities
+## Capabilities
 
 - Find patient conversations
 - Prepare follow-up drafts
 - Review communication history
 
-## Availability
+## Connect your practice
 
-Follow the [connector directory](https://platform.qtis.ai/connectors) for availability. In the meantime, [Patients & Clients](../patients/README.md) is available to connect.
+Open your QTIS workspace with your staff account to manage integrations and connection settings for your practice.
+
+[Open QTIS](https://platform.qtis.ai/sign-in)
 
 [← All connectors](../../README.md#connector-directory)

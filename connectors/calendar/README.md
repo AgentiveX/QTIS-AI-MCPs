@@ -1,6 +1,6 @@
 # Calendar
 
-**Limited access** · Operations
+**Available** · Operations
 
 Availability, bookings, and schedule changes. A clearer view of your practice's day.
 
@@ -12,9 +12,11 @@ Availability, bookings, and schedule changes. A clearer view of your practice's 
 - Read practice appointments
 - Book, reschedule, and cancel with approval
 
-## Access
+## Connect your practice
 
-The Calendar service supports registered scheduling clients. Client access and activation must be confirmed before setup. A public endpoint does not imply a listing or automatic availability in any third-party application. Contact [QTIS](mailto:krish@agentivex.ai) for registration.
+Open your QTIS workspace with your staff account to manage integrations and connection settings for your practice.
+
+[Open QTIS](https://platform.qtis.ai/sign-in)
 
 [Scheduling documentation](https://platform.qtis.ai/connectors/calendar/docs)
 

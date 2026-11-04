@@ -1,7 +1,7 @@
 # Prompts for approved changes
 
 Use manage access and an account with the required QTIS permissions. Supply
-the real details in your private Claude conversation, not in GitHub issues.
+the real details in your private AI System conversation, not in GitHub issues.
 
 ## Create
 

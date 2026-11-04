@@ -1,6 +1,6 @@
 # Security
 
-Report security issues privately to [krish@agentivex.ai](mailto:krish@agentivex.ai).
+Report security issues using [private vulnerability reporting](https://github.com/AgentiveX/QTIS-AI-MCPs/security/advisories/new).
 Include the affected public endpoint, a safe reproduction, and the approximate
 time. Do not send patient data or live credentials. Do not open a public issue
 for a vulnerability involving access to private records.

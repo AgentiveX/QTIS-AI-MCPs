@@ -22,7 +22,7 @@
       "id": "calendar",
       "name": "Calendar",
       "category": "Operations",
-      "status": "limited",
+      "status": "available",
       "description": "Availability, bookings, and schedule changes. A clearer view of your practice's day.",
       "capabilities": [
         "Find provider and room availability",
@@ -36,7 +36,7 @@
       "id": "clinical-notes",
       "name": "Clinical Notes",
       "category": "Patient care",
-      "status": "planned",
+      "status": "available",
       "description": "Patient notes and care documentation, brought into the flow of your work.",
       "capabilities": [
         "Find patient notes",
@@ -49,7 +49,7 @@
       "id": "forms",
       "name": "Forms & Consents",
       "category": "Patient care",
-      "status": "planned",
+      "status": "available",
       "description": "Intake forms, consent records, and completion status, in one conversation.",
       "capabilities": [
         "Find practice forms",
@@ -62,7 +62,7 @@
       "id": "inventory",
       "name": "Inventory",
       "category": "Operations",
-      "status": "planned",
+      "status": "available",
       "description": "Stock levels, product details, and reorder planning for a well-run practice.",
       "capabilities": [
         "Explore product inventory",
@@ -75,7 +75,7 @@
       "id": "messaging",
       "name": "Messaging",
       "category": "Growth",
-      "status": "planned",
+      "status": "available",
       "description": "Patient conversations, follow-ups, and thoughtful communication across your team.",
       "capabilities": [
         "Find patient conversations",
@@ -88,7 +88,7 @@
       "id": "billing",
       "name": "Billing",
       "category": "Finance",
-      "status": "planned",
+      "status": "available",
       "description": "Invoices, payments, and balances. Bring the financial picture into focus.",
       "capabilities": [
         "Find practice invoices",
@@ -101,7 +101,7 @@
       "id": "analytics",
       "name": "Practice Analytics",
       "category": "Growth",
-      "status": "planned",
+      "status": "available",
       "description": "Activity trends, service insights, and a better understanding of your practice.",
       "capabilities": [
         "Explore practice activity",
@@ -114,7 +114,7 @@
       "id": "team",
       "name": "Team & Locations",
       "category": "Operations",
-      "status": "planned",
+      "status": "available",
       "description": "Your people, roles, and locations. The context behind every practice workflow.",
       "capabilities": [
         "Explore practice locations",

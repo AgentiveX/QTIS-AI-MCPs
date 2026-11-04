@@ -1,8 +1,8 @@
 # Contributing
 
-Keep the public registry, hosted availability, and tool contracts consistent.
-Only publish an endpoint when the connector is available for that documented
-audience. Planned connectors belong in the directory without endpoint URLs.
+Keep the public registry, connector guides, and published tool contracts consistent.
+Use the published QTIS URLs in connection instructions and document the correct
+practice permissions for each workflow.
 
 Run `npm run check`, `npm test`, and `npm run smoke` before proposing changes.
 The smoke check uses public metadata and must never read or change patient data.

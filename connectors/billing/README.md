@@ -1,21 +1,21 @@
 # Billing
 
-**Planned** · Finance
+**Available** · Finance
 
 Invoices, payments, and balances. Bring the financial picture into focus.
 
 [View on QTIS](https://platform.qtis.ai/connectors/billing)
 
-This connector is planned and is not yet available to connect. These capabilities describe the intended scope. No endpoint or tool contracts are published.
-
-## Proposed capabilities
+## Capabilities
 
 - Find practice invoices
 - Review payment status
 - Understand outstanding balances
 
-## Availability
+## Connect your practice
 
-Follow the [connector directory](https://platform.qtis.ai/connectors) for availability. In the meantime, [Patients & Clients](../patients/README.md) is available to connect.
+Open your QTIS workspace with your staff account to manage integrations and connection settings for your practice.
+
+[Open QTIS](https://platform.qtis.ai/sign-in)
 
 [← All connectors](../../README.md#connector-directory)

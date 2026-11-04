@@ -17,7 +17,7 @@ Find the right person, update their details, and keep every profile in order.
 
 `https://platform.qtis.ai/mcp/patients`
 
-[Claude setup](../../docs/claude.md) · [Tool schemas](tools.json) · [Patient states](../../docs/patient-states.md)
+[AI System setup](../../docs/ai-system.md) · [Tool schemas](tools.json) · [Patient states](../../docs/patient-states.md)
 
 Use your own QTIS staff account. Approval and manage access are required for changes. Archive preserves history; it is not permanent erasure.
 

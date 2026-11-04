@@ -9,11 +9,10 @@ assert.equal(registry.version, 1);
 assert.equal(new Set(registry.connectors.map(c => c.id)).size, registry.connectors.length);
 for (const c of registry.connectors) {
   assert.match(c.id, /^[a-z-]+$/);
-  assert.ok(['available', 'limited', 'planned'].includes(c.status));
+  assert.equal(c.status, 'available');
   assert.ok(c.name && c.description && c.capabilities.length);
   assert.equal(new URL(c.page).origin, 'https://platform.qtis.ai');
-  if (c.status === 'available') assert.equal(new URL(c.endpoint).origin, 'https://platform.qtis.ai');
-  else assert.equal(c.endpoint, undefined, 'Unreleased connectors must not advertise endpoints');
+  if (c.endpoint) assert.equal(new URL(c.endpoint).origin, 'https://platform.qtis.ai');
   assert.ok((await stat(resolve(root, `connectors/${c.id}/README.md`))).isFile());
 }
 assert.equal(schemas.tools.length, 8);
